@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-![exgael's GitHub stats](https://github-readme-stats-zeta-ten-80.vercel.app/api?username=exgael&show_icons=true&theme=radical&count_private=true)
+![exgael's GitHub stats](https://github-readme-stats-exgaels-projects.vercel.app/api?username=exgael&show_icons=true&theme=radical&count_private=true)
 
 ### Most Used Languages
 
-![Top Languages](https://github-readme-stats-zeta-ten-80.vercel.app/api/top-langs/?username=exgael&layout=compact&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats-exgaels-projects.vercel.app/api/top-langs/?username=exgael&layout=compact&theme=radical&count_private=true)
 
 ### Current Streak
 
