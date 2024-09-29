@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **exgael/exgael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![exgael's GitHub stats](https://github-readme-stats.vercel.app/api?username=exgael&show_icons=true&theme=gradient)
+# Hi there, I'm exgael 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exgael&layout=donut)](https://github.com/exgael/github-readme-stats)
+### Welcome to my GitHub profile!
+
+I'm passionate about AI, React development, and solving Sudoku puzzles! Here you'll find my latest projects, contributions, and activity.
+
+---
+
+### GitHub Stats
+
+![exgael's GitHub stats](https://github-readme-stats.vercel.app/api?username=exgael&show_icons=true&theme=radical)
+
+### Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=exgael&layout=compact&theme=radical)
+
+### Current Streak
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=exgael&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+---
+
