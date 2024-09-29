@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-![exgael's GitHub stats](https://github-readme-stats-exgaels-projects.vercel.app/api?username=exgael&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 ![exgael's GitHub stats](https://github-readme-stats-exgaels-projects.vercel.app/api?username=exgael&show_icons=true&theme=radical&count_private=true)
 
 ### Most Used Languages
