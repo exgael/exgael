@@ -25,7 +25,7 @@ I'm passionate about AI, React development, and solving Sudoku puzzles! Here you
 
 ### Most Used Languages
 
-![Top Languages]([https://github-readme-stats.vercel.app/](https://github-readme-stats-exgaels-projects.vercel.app/)api/top-langs/?username=exgael&layout=compact&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats-exgaels-projects.vercel.app/api/top-langs/?username=exgael&layout=compact&theme=radical&count_private=true)
 
 ### Current Streak
 
