@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ### Welcome to my GitHub profile!
 
-I'm passionate about AI, React development, and solving Sudoku puzzles! Here you'll find my latest projects, contributions, and activity.
-
 ### GitHub Stats
 
 ![exgael's GitHub stats](https://github-readme-stats-exgaels-projects.vercel.app/api?username=exgael&show_icons=true&theme=radical&count_private=true)
